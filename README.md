@@ -1,5 +1,5 @@
 
-Official repository for CVPR 2022 paper **An Accuracy-Lossless Perturbation Method for Defending Privacy Attacks in Federated Learning**. 
+Official repository for WWW 2022 paper **An Accuracy-Lossless Perturbation Method for Defending Privacy Attacks in Federated Learning**. 
 This project is developed based on Python 3.6. 
 
 ## Install prerequisites
