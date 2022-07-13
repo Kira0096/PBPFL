@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+argparse
+advertorch
+matplotlib
+albumentations
+pandas
+opencv-python
